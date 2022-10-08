@@ -1,6 +1,6 @@
 - 👋 Oi, Me chamo Gilmar, vulgo "g42puts"!
-- 👀 Sou interessado em HTML, CSS, JavaScript e Python!
-- 🌱 Atualmente estou aprendendo HTML, CSS e JavaScript
+- 👀 Estou interessado em Python, Sql e Machine Learning!
+- 🌱 Atualmente estou aprendendo Python e SQL!
 - 💞️ I’m looking to collaborate on ...
 - 📫 Você pode me encontar no <a href="https://www.linkedin.com/in/gilmar-tavares-218635143/" target="_blank"> linkedin </a>
 
