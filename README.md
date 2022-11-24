@@ -1,7 +1,7 @@
 - 👋 Oi, Me chamo Gilmar, vulgo "g42puts"!
 - 👀 Estou interessado em Python, Sql e Machine Learning!
 - 🌱 Atualmente estou aprendendo Python e SQL!
-- 💞️ I’m looking to collaborate on ...
+- 💞️ Procuro colaborar com projetos para automação de tarefas diarias que venham a contribuir para a sociedade muito positivamente!
 - 📫 Você pode me encontar no <a href="https://www.linkedin.com/in/gilmar-tavares-218635143/" target="_blank"> linkedin </a>
 
 <!---
