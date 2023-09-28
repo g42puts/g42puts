@@ -2,7 +2,7 @@
 - 👀 Estou interessado em Python, Sql, Data Science e Machine Learning!
 - 🌱 Atualmente estou aprendendo Python e SQL voltado para análise de dados!
 - 💞️ Procuro colaborar com projetos para automação de tarefas diarias que venham a contribuir para a sociedade muito positivamente!
-- 📫 Você pode me encontar no <a href="https://www.linkedin.com/in/gilmar-tavares-218635143/" target="_blank"> linkedin </a>
+- 📫 Você pode me encontar no [linkedin](https://www.linkedin.com/in/gilmar-jos%C3%A9-218635143/)
 
 Começarei a atualizar espe perfil do GitHub no intuito de mostrar um pouco do que sei através de projetos simples, alguns dos que fiz foram para uso pessoal, então não irei disponibilizar dados pessoais, apenas a estrutura do código.
 
