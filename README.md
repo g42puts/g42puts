@@ -1,5 +1,5 @@
 
-## <img width="30" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"> About Me:
+## About Me:
 - 👋 Wellcome to my GitHub Profile
 - I'm a adept's of backend model, always improving myself to learn more interest things.
 - Here my focus is on 🐍**Python**, but I'm looking to improve in other areas.
