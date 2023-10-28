@@ -1,6 +1,7 @@
 
 ## About Me:
 - 👋 Wellcome to my GitHub Profile
+- :man_student: Currently studying Analysis and Systems Development at Unopar Collegue
 - I'm a adept's of backend model, always improving myself to learn more interest things.
 - Here my focus is on 🐍**Python**, but I'm looking to improve in other areas.
 - In the momoent i'm studing about **Desing Patterns**, **Good Comcepts** (e.g. **S.O.L.I.D**) and **APIs**.
@@ -12,4 +13,10 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+
+## <img width="30" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif"> Social Networks:
+<div>
+  <a href="mailto:gilmar.neo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gilmar-jose/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
