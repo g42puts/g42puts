@@ -1,6 +1,6 @@
 ## About Me:
 - 👋 Welcome to my GitHub Profile!
-- :man_student: Currently studying Analysis and Systems Development at Unopar College.
+- :man_student: Currently studying Analysis and Systems Development at Unopar College. 
 - I'm a backend model enthusiast, always striving to learn more interesting things.
 - My primary focus is on 🐍 **Python**, but I'm looking to expand my skills in other areas.
 - Currently, I'm studying **Design Patterns**, **Good Concepts** (e.g., **S.O.L.I.D**), and **APIs**.
