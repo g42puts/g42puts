@@ -9,7 +9,7 @@
 - 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/gilmar-jose/).
 
 ## My Competencies:
-<div style="display: inline_block"><br>
+<div style="display: flex; flex-direction: flex-row; gap: '10px'"><br>
   <img align="center" alt="Python" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="Django" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
