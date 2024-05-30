@@ -109,13 +109,13 @@ like <b>SQLAlchemy</b> if needed.
     <source
       height="180"
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=g42puts&theme=transparent&show_icons=true&include_all_commits=true" />
+      srcset="https://github-readme-stats.vercel.app/api?username=g42puts&show=reviews&theme=transparent&show_icons=true&include_all_commits=true" />
     <source
       height="180"
       media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api?username=g42puts&theme=light&show_icons=true&include_all_commits=true" />
+      srcset="https://github-readme-stats.vercel.app/api?username=g42puts&show=reviews&theme=light&show_icons=true&include_all_commits=true" />
     <img
-      src="https://github-readme-stats.vercel.app/api?username=g42puts&theme=dark&show_icons=true&include_all_commits=true" />
+      src="https://github-readme-stats.vercel.app/api?username=g42putsshow=reviews&&theme=dark&show_icons=true&include_all_commits=true" />
   </picture>
   <picture>
     <source
