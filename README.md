@@ -104,8 +104,7 @@ like <b>SQLAlchemy</b> if needed.
   </a>
 </div>
 
-<div
-  style="display: flex; flex-direction: row; gap: 0px; margin: auto; max-width: 900px; justify-content: center;">
+
   <picture>
     <source
       height="180"
@@ -133,4 +132,3 @@ like <b>SQLAlchemy</b> if needed.
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=g42puts&theme=react&layout=compact" />
   </picture>
 
-</div>
