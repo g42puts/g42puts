@@ -1,31 +1,25 @@
- <div
-  style="display: flex; flex-direction: column; justify-content: center; align-items: center; max-width: 900px; margin: auto; font-family: Verdana, Geneva, Tahoma, sans-serif;">
-  <h1 style="align-self: center; text-align: center;">About Me:</h1>
-  <ul
-    style="display: flex; flex-direction: column; gap: 10px; list-style-type: '- ';">
-    <li>👋 Welcome to my GitHub Profile!</li>
-    <li>:man_student: Currently studying Analysis and Systems Development at
-      Unopar College.</li>
-    <li>I'm a backend model enthusiast, always striving to learn more
-      interesting things.</li>
-    <li>My primary focus is on 🐍 <b>Python</b>, but I'm looking to expand
-      my skills in other areas.</li>
-    <li>Currently, I'm studying <b>Design Patterns</b>, <b>Good Concepts</b>
-      (e.g., <b>S.O.L.I.D</b>), and <b>APIs</b>.</li>
-    <li>I plan to dive deeper into <b>Django</b> and <b>React</b>
-      integration.</li>
-    <li>I'm well-versed in <b>SQL</b> and frequently use it in my work. I
-      also enjoy building my own ORM, but I'm open to using established ones
-      like <b>SQLAlchemy</b> if needed.</li>
-    <li>📫 You can find me on <a
-        href="https://www.linkedin.com/in/gilmar-jose/"
-        target="_blank">LinkedIn</a></li>
-  </ul>
-</div>
-<h2 style="font-family: Verdana, Geneva, Tahoma, sans-serif; text-align: center;">My Competencies:</h2>
+## About Me:
+
+- 👋 Welcome to my GitHub Profile!
+- :man_student: Currently studying Analysis and Systems Development at
+Unopar College.
+- I'm a backend model enthusiast, always striving to learn more
+interesting things.
+- My primary focus is on 🐍 <b>Python</b>, but I'm looking to expand
+my skills in other areas.
+- Currently, I'm studying <b>Design Patterns</b>, <b>Good Concepts</b>
+(e.g., <b>S.O.L.I.D</b>), and <b>APIs</b>.
+- I plan to dive deeper into <b>Django</b> and <b>React</b>
+integration.
+- I'm well-versed in <b>SQL</b> and frequently use it in my work. I
+also enjoy building my own ORM, but I'm open to using established ones
+like <b>SQLAlchemy</b> if needed.
+- 📫 You can find me on <a href="https://www.linkedin.com/in/gilmar-jose/"
+  target="_blank">LinkedIn</a>
+
+## My Competencies:
 <div
   style="display: flex; flex-direction: row; row-gap: 20px; column-gap: 30px; max-width: 900px; flex-wrap: wrap; justify-content: center; margin: auto; margin-top: 20px; margin-bottom: 40px;">
-
   <img alt="Javascript" height="45" width="60"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img alt="Typescript" height="45" width="60"
@@ -91,8 +85,11 @@
 
 </div>
 
-<h2 style="font-family: Verdana, Geneva, Tahoma, sans-serif; text-align: center;">Social Networks:</h2>
-<div style="display: flex; flex-direction: row; column-gap: 10px; justify-content: center; margin: auto; max-width: 900px; margin-bottom: 40px;">
+<h2
+  style="font-family: Verdana, Geneva, Tahoma, sans-serif; text-align: center;">Social
+  Networks:</h2>
+<div
+  style="display: flex; flex-direction: row; column-gap: 10px; justify-content: center; margin: auto; max-width: 900px; margin-bottom: 40px;">
   <a href="mailto:gilmar.neo@gmail.com" target="_blank">
     <img
       style="height: 30px;"
@@ -107,9 +104,33 @@
   </a>
 </div>
 
-<div style="display: flex; flex-direction: row; gap: 10px; margin: auto; max-width: 900px">
-  <img height="180"
-    src="https://github-readme-stats.vercel.app/api?username=g42puts&theme=react&show_icons=true&include_all_commits=true" />
-  <img height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=g42puts&theme=react&layout=compact" />
+<div
+  style="display: flex; flex-direction: row; gap: 0px; margin: auto; max-width: 900px; justify-content: center;">
+  <picture>
+    <source
+      height="180"
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=g42puts&theme=transparent&show_icons=true&include_all_commits=true" />
+    <source
+      height="180"
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api?username=g42puts&theme=light&show_icons=true&include_all_commits=true" />
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=g42puts&theme=dark&show_icons=true&include_all_commits=true" />
+  </picture>
+  <picture>
+    <source
+      height="180"
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=g42puts&theme=transparent&layout=compact" />
+    />
+    <source
+      height="180"
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=g42puts&theme=light&layout=compact" />
+    />
+    <img height="180"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=g42puts&theme=react&layout=compact" />
+  </picture>
+
 </div>
