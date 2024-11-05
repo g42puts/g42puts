@@ -5,7 +5,7 @@
 Unopar College.
 - I'm a backend model enthusiast, always striving to learn more
 interesting things.
-- My primary focus is on 🐍 <b>Python</b>, but I'm looking to expand
+- Recently migrated from Python to NodeJs, always looking to improve my acknowledgements expand
 my skills in other areas.
 - Currently, I'm studying <b>Design Patterns</b>, <b>Good Concepts</b>
 (e.g., <b>S.O.L.I.D</b>), and <b>APIs</b>.
